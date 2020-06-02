@@ -32,6 +32,8 @@ export class AppComponent {
   private player: ElementRef;
 
   startRecord() {
+    this.events = [];
+
     this.recordingSession = record({
       emit: (event) => {
         this.events.push(event);
