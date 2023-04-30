@@ -1,6 +1,6 @@
 # AngularComponentsRrwebProblem
 
-This project was created to demonstrate https://github.com/rrweb-io/rrweb/issues/225 and then https://github.com/rrweb-io/rrweb-snapshot/issues/33
+This project was created to demonstrate https://github.com/rrweb-io/rrweb/issues/225, https://github.com/rrweb-io/rrweb-snapshot/issues/33, https://github.com/rrweb-io/rrweb/issues/228
 
 For run application clone this repository and run:
 
